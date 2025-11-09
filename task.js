@@ -1,0 +1,9 @@
+{
+  _id,
+  userId,
+  title,
+  description,
+  dueDate,
+  isCompleted,
+  createdAt
+}
